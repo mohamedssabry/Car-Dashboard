@@ -18,8 +18,8 @@ function LeftCard() {
     datasets: [
       {
         label: "369",
-        data: [3, 6, 9, 7, 11, 15, 18],
-        backgroundColor: "#F9F9F9",
+        data: [17, 15, 25, 10, 18, 7, 15],
+        backgroundColor: "#F4F5F9",
         tension: 0.5,
       },
     ],
